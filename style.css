@@ -7,11 +7,10 @@
 
 nav {
     background:#2f1a02;
-    padding: 16px 40px;
+    padding: 16px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: sticky;
 }
 
 .logo {
